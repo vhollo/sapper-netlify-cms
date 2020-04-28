@@ -21,7 +21,7 @@
 	<title>Blog</title>
 </svelte:head>
 
-<h1>Recent posts</h1>
+<code>Recent posts</code>
 
 <ul>
 	{#each posts as post}

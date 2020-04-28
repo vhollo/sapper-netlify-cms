@@ -49,7 +49,7 @@
 </style>
 
 <svelte:head>
-	<title>Sapper project template</title>
+	<title>finomszesz</title>
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </svelte:head>
 
