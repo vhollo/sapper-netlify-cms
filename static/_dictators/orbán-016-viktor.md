@@ -19,5 +19,5 @@ rating9: ""
 rating10: ""
 rating11: ""
 rating12: ""
-photo: /logo.svg
+photo: /uploads/016.jpg
 ---
